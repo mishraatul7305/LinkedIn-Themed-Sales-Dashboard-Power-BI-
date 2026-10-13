@@ -22,4 +22,6 @@ Power BI, DAX, Excel
 - `README.md`
 
 ## Author
-Atul Mishra | [LinkedIn](https://www.linkedin.com/in/atul-mishra210202/)
+Atul Mishra  
+
+LINKEDin ID ; [https://www.linkedin.com/feed/update/urn:li:activity:7515601545162326016/]
